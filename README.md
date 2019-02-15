@@ -3,7 +3,7 @@
 
 This is a small pilot project in c ++ and sfml.
 
-To install, you need to download the project, and in the project's settings, set the paths for the libraries from 'sfml'
+To install, you need to download the project, and in the project's settings, set the paths for the libraries from folder 'sfml'
 
 Project description:
 
