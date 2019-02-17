@@ -1,6 +1,6 @@
 # PlatformOnSFML
 
-![preview](https://github.com/Pavel2207/PlatformOnSFML/tree/master/PlatformOnSFML/res/preview.png)
+![preview](https://user-images.githubusercontent.com/22425439/52908261-07887a00-3283-11e9-9687-c81e3adb9229.png)
 
 This is a pilot project - platformer on c++ and sfml. 
 
