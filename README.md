@@ -1,5 +1,7 @@
 # PlatformOnSFML
 
+![preview](preview.png)
+
 This is a pilot project - platformer on c++ and sfml. 
 
 To start a project you need:
