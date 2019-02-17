@@ -11,6 +11,5 @@ To start a project you need:
 The basic idea: the main character wanders around the level solving interesting programming problems. For each correct answer, the salary of the hero increases, for each wrong answer - decreases.
 
 Control:
-  
-  movement: keys up, left, right
-  answer to the question: keys 1, 2, 3, 4
+  1) movement: keys up, left, right
+  2) answer to the question: keys 1, 2, 3, 4
